@@ -6,19 +6,18 @@
 [![Issues][issues-shield]][issues-url]
 [![Licence MIT][license-shield]][license-url]
 [![Site Web][website-shield]][website-url]
+[![Discord][discord-shield]][discord-url]
 
 <br />
 <div align="center">
   <a href="https://www.icarya.fr">
-    <img src="https://www.icarya.fr/assets/images/b8afd6be7038dc40c6097a13855efba63bbfb1af.png" alt="Icarya Logo" width="80" height="80">
+    <img src="https://www.icarya.fr/assets/images/b8afd6be7038dc40c6097a13855efba63bbfb1af.png" alt="Icarya Logo" width="240" height="80">
   </a>
 
   <h3 align="center">Icarya Texture Pack</h3>
 
   <p align="center">
     Un texture pack pour Minecraft conçu pour améliorer votre expérience de jeu avec des textures de haute qualité.
-    <br />
-    <a href="https://github.com/Icarya/texturepack"><strong>Explorer la documentation »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Icarya/texturepack/releases">Voir la démo</a>
@@ -46,14 +45,10 @@
 
 Icarya Texture Pack est un texture pack de haute qualité conçu pour améliorer votre expérience de jeu dans Minecraft avec des textures détaillées et esthétiques. Seulement disponible sur le serveur Icarya.fr
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
 ### Technologies utilisées
 
 * [Minecraft](https://www.minecraft.net)
 * [Optifine](https://optifine.net) (pour améliorer les performances et la personnalisation)
-
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 ## Installation
 
@@ -70,18 +65,11 @@ Pour utiliser ce pack de textures, vous devez avoir Minecraft installé avec Opt
 3. Glissez le fichier du pack de textures dans le dossier.
 4. Activez le pack de textures en cliquant dessus dans le menu **Pack de ressources**.
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
 ## Utilisation
 
 Une fois installé, le pack de textures modifie automatiquement l'apparence des blocs, objets et interfaces de Minecraft, offrant ainsi un nouveau style visuel. Vous pouvez continuer à jouer avec ces nouvelles textures, fonctionne seulement sur icarya.fr.
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
-
 Voir la liste complète des fonctionnalités proposées (et des problèmes connus) dans les [problèmes ouverts](https://github.com/Icarya/texturepack/issues).
-
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 ## Contribuer
 
@@ -93,20 +81,15 @@ Nous accueillons volontiers les contributions ! Si vous avez des suggestions ou 
 4. Poussez la branche (`git push origin feature/feature-name`)
 5. Ouvrez une pull request
 
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
-
 ### Principaux contributeurs :
 
 <a href="https://github.com/Icarya/texturepack/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Icarya/texturepack" alt="image contrib.rocks" />
 </a>
 
-
 ## Licence
 
 Distribué sous la licence MIT. Voir le fichier [LICENSE.txt](https://github.com/Icarya/texturepack/blob/main/LICENSE.txt) pour plus d'informations.
-
-<p align="right">(<a href="#readme-top">retour en haut</a>)</p>
 
 ## Remerciements
 
@@ -129,5 +112,5 @@ Distribué sous la licence MIT. Voir le fichier [LICENSE.txt](https://github.com
 [license-url]: https://github.com/Icarya/texturepack/blob/main/LICENSE.txt
 [website-shield]: https://img.shields.io/badge/website-www.icarya.fr-blue?style=for-the-badge
 [website-url]: https://www.icarya.fr
-
-
+[discord-shield]: https://img.shields.io/badge/discord-Join%20our%20server-7289DA?style=for-the-badge
+[discord-url]: https://discord.gg/XkBTJD5Sj2
