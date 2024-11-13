@@ -1,10 +1,8 @@
 <a id="readme-top"></a>
 
 [![Contributeurs][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![Licence MIT][license-shield]][license-url]
 [![Site Web][website-shield]][website-url]
 [![Discord][discord-shield]][discord-url]
 
@@ -35,7 +33,6 @@
     <li><a href="#installation">Installation</a></li>
     <li><a href="#utilisation">Utilisation</a></li>
     <li><a href="#contribuer">Contribuer</a></li>
-    <li><a href="#licence">Licence</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#remerciements">Remerciements</a></li>
   </ol>
@@ -87,10 +84,6 @@ Nous accueillons volontiers les contributions ! Si vous avez des suggestions ou 
   <img src="https://contrib.rocks/image?repo=Icarya/texturepack" alt="image contrib.rocks" />
 </a>
 
-## Licence
-
-Distribué sous la licence MIT. Voir le fichier [LICENSE.txt](https://github.com/Icarya/texturepack/blob/main/LICENSE.txt) pour plus d'informations.
-
 ## Remerciements
 
 * Merci à [Optifine](https://optifine.net) pour avoir amélioré l'expérience graphique de Minecraft.
@@ -102,15 +95,11 @@ Distribué sous la licence MIT. Voir le fichier [LICENSE.txt](https://github.com
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/Icarya/texturepack.svg?style=for-the-badge
 [contributors-url]: https://github.com/Icarya/texturepack/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Icarya/texturepack.svg?style=for-the-badge
-[forks-url]: https://github.com/Icarya/texturepack/network/members
 [stars-shield]: https://img.shields.io/github/stars/Icarya/texturepack.svg?style=for-the-badge
 [stars-url]: https://github.com/Icarya/texturepack/stargazers
 [issues-shield]: https://img.shields.io/github/issues/Icarya/texturepack.svg?style=for-the-badge
 [issues-url]: https://github.com/Icarya/texturepack/issues
-[license-shield]: https://img.shields.io/github/license/Icarya/texturepack.svg?style=for-the-badge
-[license-url]: https://github.com/Icarya/texturepack/blob/main/LICENSE.txt
-[website-shield]: https://img.shields.io/badge/website-www.icarya.fr-blue?style=for-the-badge
+[website-shield]: https://img.shields.io/badge/Site-www.icarya.fr-blue?style=for-the-badge
 [website-url]: https://www.icarya.fr
-[discord-shield]: https://img.shields.io/badge/discord-Join%20our%20server-7289DA?style=for-the-badge
+[discord-shield]: https://img.shields.io/badge/discord-Rejoindre-7289DA?style=for-the-badge
 [discord-url]: https://discord.gg/XkBTJD5Sj2
