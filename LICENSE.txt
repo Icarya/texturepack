@@ -1,18 +1,31 @@
 # Licence du Projet
 
-Ce projet contient des images provenant de projets tiers. Ces images sont soumises aux licences et conditions d'utilisation définies par leurs créateurs respectifs. En utilisant ce projet, vous acceptez de respecter les licences d'origine des images.
+Ce projet contient des **images provenant de projets tiers**. Ces images sont soumises aux licences et conditions d'utilisation définies par leurs créateurs respectifs. En utilisant ce projet, vous acceptez de respecter les licences d'origine des images.
 
-**Conditions d'Utilisation :**
+---
 
-1. **Images et Médias Tiers**  
-   Les images et médias présents dans ce projet ne sont pas soumis à une licence unique. Chaque image est régie par les droits d'auteur et la licence qui lui est propre, définis par son créateur original. Pour chaque ressource, veuillez vous référer au fichier `credits.md` (ou équivalent) pour obtenir les informations sur la source et les droits spécifiques.
+## Conditions d'Utilisation
 
-2. **Aucune Garantie**  
-   Ce projet est fourni « tel quel », sans garantie d'aucune sorte, expresse ou implicite, y compris sans garantie de qualité marchande, d’adéquation à un usage particulier ou d'absence de contrefaçon. En aucun cas, les créateurs de ce projet ne seront tenus responsables de tout dommage ou litige lié à l'utilisation des images de tiers incluses dans ce projet.
+### 1. Images et Médias Tiers
+Les images et médias présents dans ce projet ne sont pas soumis à une licence unique. Chaque image est régie par les droits d'auteur et la licence qui lui est propre, définis par son créateur original.  
+Pour chaque ressource, veuillez vous référer au fichier `credits.md` (ou équivalent) pour obtenir les informations sur la source et les droits spécifiques.
 
-3. **Utilisation Restreinte**  
-   Vous ne pouvez pas utiliser les images pour des fins autres que celles permises par les licences d'origine. Toute reproduction, distribution ou modification des images doit se faire dans le respect des droits d'auteur des créateurs respectifs.
+### 2. Aucune Garantie
+Ce projet est fourni « tel quel », **sans garantie d'aucune sorte**, expresse ou implicite, y compris sans garantie de qualité marchande, d’adéquation à un usage particulier ou d'absence de contrefaçon.  
+En aucun cas, les créateurs de ce projet, y compris **ICNTech**, ne seront tenus responsables de tout dommage ou litige lié à l'utilisation des images de tiers incluses dans ce projet.
 
-**Fichier de Crédits**  
-Pour obtenir des détails sur chaque image (source, créateur, et type de licence), veuillez consulter le fichier `credits.md` dans ce github.
+### 3. Responsabilité Limitée d’ICNTech
+ICNTech **décline toute responsabilité** pour toute utilisation de ce projet qui contreviendrait aux licences d’origine des images. Toute violation des droits d’auteur ou des conditions de licence d’un tiers relèvera de la **responsabilité exclusive de l’utilisateur**.
 
+### 4. Utilisation Restreinte
+Vous ne pouvez pas utiliser les images pour des fins autres que celles permises par les licences d'origine. Toute reproduction, distribution ou modification des images doit se faire dans le respect des droits d'auteur des créateurs respectifs.
+
+---
+
+## Fichier de Crédits
+
+Pour obtenir des détails sur chaque image (source, créateur, et type de licence), veuillez consulter le fichier `credits.md` dans ce dépôt.
+
+---
+
+**Note** : Merci de vous assurer de respecter les droits et conditions de chaque image individuelle lorsque vous utilisez ce projet.
