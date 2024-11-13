@@ -18,8 +18,6 @@
     Un texture pack pour Minecraft conçu pour améliorer votre expérience de jeu avec des textures de haute qualité.
     <br />
     <br />
-    <a href="https://github.com/Icarya/texturepack/releases">Voir la démo</a>
-    ·
     <a href="https://github.com/Icarya/texturepack/issues/new?labels=bug&template=bug-report---.md">Signaler un bug</a>
     ·
     <a href="https://github.com/Icarya/texturepack/issues/new?labels=enhancement&template=feature-request---.md">Proposer une fonctionnalité</a>
