@@ -85,7 +85,7 @@ Nous accueillons volontiers les contributions ! Si vous avez des suggestions ou 
 ## Remerciements
 
 * Merci à [Optifine](https://optifine.net) pour avoir amélioré l'expérience graphique de Minecraft.
-* [Credits.md](https://github.com/Icarya/texturepack/blob/main/credits.md) pour l'inspiration et la collaboration sur ce projet.
+* [Credits.md](https://github.com/Icarya/texturepack/blob/main/credits.md).
 * Merci à la communauté pour leur soutien et leurs retours continus.
 
 <p align="right">(<a href="#readme-top">retour en haut</a>)</p>
